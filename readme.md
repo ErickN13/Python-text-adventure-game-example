@@ -1,1 +1,1 @@
-I made this code just for beginners to use as an example in the first steps.so i didn't use any lib or anything like that, just basic python
+I made this code just for beginners to use as an example in the first steps. so i didn't use any lib or anything like that, just basic python
