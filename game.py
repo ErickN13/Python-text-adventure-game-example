@@ -1,6 +1,6 @@
 def start_game():
     print("Welcome to the Adventure Game!")
-    print("You find yourself in a dark forest. You can go left or right.")
+    print("You are lost in a dark forest. You can go left or right.")
     choice = input("Which way do you want to go? (left/right): ").lower()
 
     if choice == "left":
